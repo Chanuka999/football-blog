@@ -145,10 +145,10 @@ This project was created to practice modern React development while building a p
 **Chanuka Randitha**
 
 GitHub:
-https://github.com/YOUR-USERNAME
+https://github.com/Chanuka999
 
 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/chanuka-randitha/
 
 ---
 
